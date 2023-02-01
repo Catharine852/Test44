@@ -21,7 +21,7 @@ public class Runner {
 //        System.out.println(employee2.getPosition());
         System.out.println("**************\n");
 
-        var employee3 = new EmployeeBuilder()
+        var employee3 = new Employee.Builder()
                 .firstName("Anna")
                 .lastName("Petrova")
                 .age(26)

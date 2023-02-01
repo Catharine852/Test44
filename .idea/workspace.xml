@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aa5656d-0d59-49be-851c-1fb48d935bf5" name="Changes" comment="commit1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton.java" afterDir="false" />
+    <list default="true" id="1aa5656d-0d59-49be-851c-1fb48d935bf5" name="Changes" comment="add singleton">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractEmployeeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EmployeeBuilderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Intern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/EmployeeBuilder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,13 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_COMMIT" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -66,11 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1675275522006</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add singleton">
+      <created>1675283478782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675283478782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="add singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="add singleton" />
   </component>
 </project>
